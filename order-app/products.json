@@ -1,0 +1,30 @@
+[
+  {
+    "id": "huevos_1",
+    "name": "Huevos (docena)",
+    "description": "Huevos frescos de la granja",
+    "price": 12000,
+    "image": ""
+  },
+  {
+    "id": "leche_1",
+    "name": "Leche (litro)",
+    "description": "Leche fresca pasteurizada",
+    "price": 8000,
+    "image": ""
+  },
+  {
+    "id": "queso_1",
+    "name": "Queso campesino (unidad)",
+    "description": "Queso artesanal",
+    "price": 15000,
+    "image": ""
+  },
+  {
+    "id": "pollo_1",
+    "name": "Pollo entero (kg)",
+    "description": "Pollo de la granja",
+    "price": 9000,
+    "image": ""
+  }
+]
